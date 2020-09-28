@@ -1,0 +1,16 @@
+D:\MY_FILES\CSProjects\Games\Bird\Bird\bin\Debug\Bird.exe.config
+D:\MY_FILES\CSProjects\Games\Bird\Bird\bin\Debug\Bird.exe
+D:\MY_FILES\CSProjects\Games\Bird\Bird\bin\Debug\Bird.pdb
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.csprojAssemblyReference.cache
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\MainWindow.g.cs
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\App.g.cs
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird_MarkupCompile.cache
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird_MarkupCompile.lref
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\MainWindow.baml
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.g.resources
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.Properties.Resources.resources
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.csproj.GenerateResource.cache
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.csproj.CoreCompileInputs.cache
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.exe
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird.pdb
+D:\MY_FILES\CSProjects\Games\Bird\Bird\obj\Debug\Bird_Content.g.cs
